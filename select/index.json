@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "アウトサイダー",
+  "base_artist": "Eve",
+  "createdAt": "2025-12-21T07:59:43.365169Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アウトサイダー",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_アウトサイダー_Eve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アウトサイダー",
+      "artist": "Eve (57)",
+      "has_synced": true,
+      "path": "select/02_アウトサイダー_Eve_(57).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アウトサイダー",
+      "artist": "島爺",
+      "has_synced": true,
+      "path": "select/03_アウトサイダー_島爺.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アウトサイダー",
+      "artist": "Eve feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/04_アウトサイダー_Eve_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アウトサイダー",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/05_アウトサイダー_Eve.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アウトサイダー",
+      "artist": "Eve feat. Hatsune Miku",
+      "has_synced": true,
+      "path": "select/06_アウトサイダー_Eve_feat._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アウトサイダー - Outsider (feat. HATSUNE MIKU)",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/07_アウトサイダー_-_Outsider_(feat._HATSUNE_MIKU)_Eve.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アウトサイダー - Outsider",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/08_アウトサイダー_-_Outsider_Eve.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アウトサイダー",
+      "artist": "Awesome City Club",
+      "has_synced": false,
+      "path": "select/09_アウトサイダー_Awesome_City_Club.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アウトサイダー",
+      "artist": "SymaG",
+      "has_synced": true,
+      "path": "select/10_アウトサイダー_SymaG.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アウトサイダー",
+      "artist": "GRANRODEO",
+      "has_synced": true,
+      "path": "select/11_アウトサイダー_GRANRODEO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アウトサイダー",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/12_アウトサイダー_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "アウトサイダー",
+      "artist": "Awesome City Club",
+      "has_synced": true,
+      "path": "select/13_アウトサイダー_Awesome_City_Club.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "アウトサイダー",
+      "artist": "Ryokuoushoku Shakai",
+      "has_synced": true,
+      "path": "select/14_アウトサイダー_Ryokuoushoku_Shakai.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "アウトサイダー",
+      "artist": "Eve; 初音ミク",
+      "has_synced": true,
+      "path": "select/15_アウトサイダー_Eve;_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "アウトサイダー",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/16_アウトサイダー_Eve.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "アウトサイダー - Eve MV",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/17_アウトサイダー_-_Eve_MV_Eve.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "アウトサイダー",
+      "artist": "Yuu.",
+      "has_synced": true,
+      "path": "select/18_アウトサイダー_Yuu..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アウトサイダー",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_アウトサイダー_Eve.txt"
+    }
+  ]
+}
